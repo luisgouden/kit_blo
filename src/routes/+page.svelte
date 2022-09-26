@@ -12,21 +12,21 @@
 
 <p>
   Texto resumen sobre el trabajo que haces. Añadiendo datos más relevantes de tu
-  carrera
+  carrera.
 </p>
 
 <h5>imagen</h5>
 
-<p>Texto hablando sobre lo que más te interese vender de tus servicios</p>
+<p>Texto hablando sobre lo que más te interese vender de tus servicios.</p>
 
 <h6>
   imagen o cita o cosa para separar contenido pero que no sea otra imagen
-  repetitiva
+  repetitiva.
 </h6>
 
-<p>Texto hablando de lo que no se ha hablado antes</p>
+<p>Texto hablando de lo que no se ha hablado antes.</p>
 
-<h6>Pequeño banner promocionando una futura newsletter o algo parecido</h6>
+<h6>Pequeño banner promocionando una futura newsletter o algo parecido.</h6>
 
 <p>
   Texto final de llamada a la acción o que de pie a seguir contactando, redes
