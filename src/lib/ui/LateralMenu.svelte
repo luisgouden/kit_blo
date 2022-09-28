@@ -5,7 +5,7 @@
   export let segment;
 </script>
 
-<style>
+<style lang="postcss">
   aside {
     display: flex;
     flex-direction: column;

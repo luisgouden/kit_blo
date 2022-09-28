@@ -4,7 +4,7 @@
   export let config;
 </script>
 
-<style>
+<style lang="postcss">
   footer {
     position: fixed;
     height: var(--heightMenu);

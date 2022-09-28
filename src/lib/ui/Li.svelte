@@ -4,7 +4,7 @@
   export let text;
 </script>
 
-<style>
+<style lang="postcss">
   li {
     padding: 0;
     font-size: 120%;

@@ -1,4 +1,4 @@
-<style>
+<style lang="postcss">
   svg {
     width: 100px;
     height: 100px;

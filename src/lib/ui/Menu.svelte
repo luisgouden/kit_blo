@@ -7,7 +7,7 @@
   let length = config.Links.length;
 </script>
 
-<style>
+<style lang="postcss">
   aside {
     height: max-content;
     position: sticky;

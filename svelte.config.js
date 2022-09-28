@@ -6,9 +6,6 @@ const config = {
 
   preprocess: [
     sveltePreprocess({
-      defaults: {
-        style: "postcss",
-      },
       postcss: true
     }),
   ],
