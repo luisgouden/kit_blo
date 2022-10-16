@@ -1,0 +1,13 @@
+{
+"nombre": "luis",
+"mail": "luis@gmail.com",
+"telefono": "666",
+"evento": "funnel",
+"paypal": "www",
+"id": "",
+"precio": "10",
+"social": {
+  "facebook": "http",
+  "instagram": "blibli"
+}
+}

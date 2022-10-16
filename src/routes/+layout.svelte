@@ -22,7 +22,7 @@
   {/if}
 {/if}
 
-<main>
+<main class={layout}>
   <slot />
 </main>
 
