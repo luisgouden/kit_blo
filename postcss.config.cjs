@@ -1,10 +1,16 @@
+//const autoprefixer = require('autoprefixer');
 const preset = require('postcss-preset-env');
 
 const mode = process.env.NODE_ENV;
 const dev = mode === "development";
 
-module.exports = {
+const config = {
 	plugins: [
-		preset({stage: 1}),
-	],
+    //autoprefixer,
+    preset({stage: 1})
+  ]
 };
+
+module.exports = config;
+
+
