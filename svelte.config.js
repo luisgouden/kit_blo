@@ -1,20 +1,20 @@
+import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-auto';
-import sveltePreprocess from 'svelte-preprocess';
+import { vitePreprocess } from '@sveltejs/kit/vite';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-
-  preprocess: [
-    sveltePreprocess({
-      postcss: true
-    }),
-  ],
+	// Consult https://kit.svelte.dev/docs/integrations#preprocessors
+	// for more information about preprocessors
+	preprocess: [
+		vitePreprocess(),
+		preprocess({
+			postcss: true
+		})
+	],
 
 	kit: {
-		adapter: adapter({
-      edge: false,
-      split: true
-    })
+		adapter: adapter()
 	}
 };
 
